@@ -1,0 +1,8 @@
+# Composer
+composer.phar
+vendor/
+composer.json
+composer.lock
+
+# Arquivo de configuração de ambiente
+.env
